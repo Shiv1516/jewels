@@ -345,7 +345,7 @@ table {
   background: url(images/gallery-bg.webp) no-repeat center/cover;
 }
 .fc1 {
-  color: #1a1a1a;
+  color: #414141;
 }
 .fc2,
 .fc-h2:hover {
@@ -361,6 +361,9 @@ table {
 }
 .fc5{
   color: #7e7272;
+}
+.fc6{
+  color: #4b3913;
 }
 
 .fill1,
@@ -1240,7 +1243,7 @@ table {
   margin-left: auto;
 }
 .info-block{
-    padding: 40px 105px 40px 40px;
+    padding: 40px;
     background: url(images/bg-star_1.webp) no-repeat center/cover;
     background-color: #ffffff;
 }
@@ -1371,6 +1374,18 @@ table {
 }
 /* footer-end */
 
+.about-section{
+  margin-top: -140px;
+  padding-top: 140px;
+}
+.product-section{
+  margin-top: -30px;
+  padding-top: 30px;
+}
+.contact-form{
+  margin-top: -70px;
+  padding-top: 70px;
+}
 /* media-quriy */
 
 @media only screen and (max-width: 1025px){
