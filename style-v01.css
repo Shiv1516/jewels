@@ -1386,6 +1386,9 @@ table {
   margin-top: -70px;
   padding-top: 70px;
 }
+.message-box{
+  resize: none;
+}
 /* media-quriy */
 
 @media only screen and (max-width: 1025px){
