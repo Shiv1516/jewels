@@ -1261,7 +1261,7 @@ table {
 }
 .product-swiper-container:after {
   background-color: #ffeed0;
-  bottom: -100px;
+  bottom: -30px;
   top: 240px;
   left: 50%;
   right: 0;
