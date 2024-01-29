@@ -1255,9 +1255,9 @@ table {
   background: #1a1a1a;
 }
 .product-img{
-  max-width: 120px;
-  max-height: 150px;
-  margin-left: 30px;
+    max-width: 180px;
+    max-height: 240px;
+    margin-left: 10px;
 }
 .product-swiper-container:after {
   background-color: #ffeed0;
@@ -1374,10 +1374,6 @@ table {
 }
 /* footer-end */
 
-.about-section{
-  margin-top: -140px;
-  padding-top: 140px;
-}
 .product-section{
   margin-top: -30px;
   padding-top: 30px;
